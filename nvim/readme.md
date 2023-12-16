@@ -3,6 +3,7 @@
 In my neovim configuration I'll try to be minimalist. I like so much neovim built ins, so will be added only a few things that I like to have on my development flow.
 
 Features:
+- Package management (done - lazy nvim)
 - Lsp
 - syntax highlighting
 - Git
