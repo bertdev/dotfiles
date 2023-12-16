@@ -7,7 +7,7 @@ Features:
 - Lsp
 - syntax highlighting
 - Git
-- Fuzzy finder
+- Fuzzy finder (done - telescope)
 - File tree
 - Bar line
 - Hot key files jump
