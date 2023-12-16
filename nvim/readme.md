@@ -8,7 +8,7 @@ Features:
 - syntax highlighting (done - tree-sitter)
 - Git
 - Fuzzy finder (done - telescope)
-- File tree
+- File tree (done - neo tree)
 - Bar line
 - Hot key files jump
 
