@@ -4,6 +4,7 @@ In my neovim configuration I'll try to be minimalist. I like so much neovim buil
 
 Features:
 - Lsp
+- syntax highlighting
 - Git
 - Fuzzy finder
 - File tree
