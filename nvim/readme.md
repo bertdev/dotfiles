@@ -9,7 +9,7 @@ Features:
 - Git
 - Fuzzy finder (done - telescope)
 - File tree (done - neo tree)
-- Bar line
+- Status line (done - lua line)
 - Hot key files jump
 
 Languages that i use:

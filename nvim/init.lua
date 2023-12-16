@@ -13,5 +13,3 @@ vim.opt.rtp:prepend(lazypath)
 
 require("vim-base")
 require("lazy").setup("plugins")
-
-
