@@ -6,7 +6,7 @@ Features:
 - Package management (done - lazy nvim)
 - Lsp
 - syntax highlighting (done - tree-sitter)
-- Git
+- Git (done - fugitive)
 - Fuzzy finder (done - telescope)
 - File tree (done - neo tree)
 - Status line (done - lua line)
