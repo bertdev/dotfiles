@@ -4,7 +4,8 @@ In my neovim configuration I'll try to be minimalist. I like so much neovim buil
 
 Features:
 - Package management (done - lazy nvim)
-- Lsp
+- Lsp (done - mason, mason lspconfig, nvim lspconfig)
+- Autocompletition and snipets
 - syntax highlighting (done - tree-sitter)
 - Git (done - fugitive)
 - Fuzzy finder (done - telescope)
