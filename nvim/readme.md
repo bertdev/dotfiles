@@ -10,7 +10,7 @@ TODO:
 Features:
 - Package management (done - lazy nvim)
 - Lsp (done - mason, mason lspconfig, nvim lspconfig)
-- Autocompletition and snipets
+- Autocompletion and snipets (done - auto-cmp)
 - syntax highlighting (done - tree-sitter)
 - Git (done - fugitive)
 - Fuzzy finder (done - telescope)
