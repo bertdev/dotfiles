@@ -35,7 +35,11 @@ return {
     },
     {
         "neovim/nvim-lspconfig",
+        dependencies = {
+            { "folke/neodev.nvim", opts = {} },
+        },
         config = function()
+            require("neodev").setup({})
             local lspconfig = require("lspconfig")
             local capabilities = require('cmp_nvim_lsp').default_capabilities()
             lspconfig.tsserver.setup({
